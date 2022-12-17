@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/tamilvanan31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamilvanan31" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20631472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20631472" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/blocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blocks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
