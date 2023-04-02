@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamilvanan</h1>
 <h3 align="center">Lazy programmer</h3>
 
-- 🔭 I’m currently working on **Angular based applications**
+- 🔭 I’m currently working on **Angular framework**
 
 - 🌱 I’m currently learning **React, JavaScript**
 
