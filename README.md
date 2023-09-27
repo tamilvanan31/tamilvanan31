@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tamilvanan</h1>
 <h3 align="center">Lazy programmer</h3>
 
-- 🔭 I’m currently working on **Angular framework**
+- 🔭 I’m currently working as a frontend developer
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **tamilvananb@outlook.com**
 
