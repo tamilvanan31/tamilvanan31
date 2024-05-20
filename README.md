@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tamilvanan</h1>
+<h1 align="center">Hi, I'm Tamilvanan</h1>
 <h3 align="center">Programmer</h3>
 
-- 🔭 I’m currently working as a full-stack developer
+- I’m currently working as a full-stack developer
 
-- 🌱 I’m currently learning **React**
+- I’m currently learning **React**
 
-- 📫 How to reach me **tamilvananb@outlook.com**
+- How to reach me **tamilvananb@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
